@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect('localhost' , 'mqjus_moha' , 'Moha0530','mqjus_pro');
+$conn = mysqli_connect('localhost' , '??' , '??','??');
 
 if(!$conn){echo "not connected" . mysqli_connect_error();}
 ?>
